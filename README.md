@@ -1,5 +1,5 @@
 # Student-Grade-Prediction
- In this file, I took a Students' Academic Performance Dataset, and I tried to predict their grades by trying many algorithms that have the best results.
+ In this repositery, I took a Students' Academic Performance Dataset, and I tried to predict their grades by trying many algorithms that have the best results.
  below are the best classification algorithms for the dataset:
  
   - Logistic regression "with max iterations = 1300" | Accuracy = 0.72
