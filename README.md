@@ -12,9 +12,9 @@
         K-nearest neighbors (KNN) is a type of supervised learning algorithm used for both regression and classification. KNN tries to predict the correct class for the test data by calculating the distance between the test data and all the training points. Then select the K number of points which is closest to the test data.
 
 Decisions done to Clean the data :
-      1- Any alphabetical attributes were converted to numerical values (either binary values for yes/no or range values 0…x) to work properly with any model.
-      2- I removed the "NationalityID" and "PlaceOfBirth" columns since it is a bit difficult to convert them to numerical values.
-      3- The dataset is split into two sets, the train set with 80% / 384 and the test set with 20% / 96, with random state = 93.
+      - Any alphabetical attributes were converted to numerical values (either binary values for yes/no or range values 0…x) to work properly with any model.
+      - I removed the "NationalityID" and "PlaceOfBirth" columns since it is a bit difficult to convert them to numerical values.
+      - The dataset is split into two sets, the train set with 80% / 384 and the test set with 20% / 96, with random state = 93.
 
 finally thanks to IBRAHIM ALJARAH for the dataset
 
