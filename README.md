@@ -3,7 +3,7 @@
  below are the best classification algorithms for the dataset:
  
   - Logistic regression "with max iterations = 1300" | Accuracy = 0.72
-      Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The outcome is measured with a dichotomous variable (in which there are only two possible outcomes).
+    Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The outcome is measured with a dichotomous variable (in which there are only two possible outcomes).
 
   - Naïve Bayes | Acuuracy = 0.68
       Naive Bayes is a classification algorithm based on Bayes’ theorem. It is particularly suited when the dimensionality of the inputs is high. It makes an assumption of independence among predictors which  simplifies the computation.
